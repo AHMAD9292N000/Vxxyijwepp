@@ -34,10 +34,10 @@ async def zzzback(_, query: CallbackQuery):
                         "• اوامــر المطــور •", callback_data="zzzdv"),
                 ],[ 
                     InlineKeyboardButton(
-                        "• مطور السورس •", url="https://t.me/A1RTR") 
+                        "• مطور السورس •", url="https://t.me/CZCRR") 
                 ],[
                     InlineKeyboardButton(
-                        "• سورس بلاك •", url="https://t.me/vvizinn"),
+                        "• سورس SAQR •", url="https://t.me/F_U_01"),
                 ],
             ]
         ),
